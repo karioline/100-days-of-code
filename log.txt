@@ -1,0 +1,56 @@
+# #100DaysOfCode Log - Round 1 - Kari
+
+The log of my #100DaysOfCode challenge. Started on 4 June, 2018.
+
+## Log
+
+### R1D1 
+Continued working through the Udemy course, The Web Developer Bootcamp. I want to finish this course up.
+Learning jQuery methods today.
+
+### R1D2
+Went over some jQuery events and effects today. Will be working on a Todo app tomorrow.
+
+###R1D3
+Began working on Todo Project. Created folder structure and basic html and some js functionalities.
+
+###R1D4
+Finished up the Todo project
+
+###R1D5
+Started new project using js libraries and the html canvas element.
+
+###R1D6
+Finished functionality of the project
+
+###R1D7
+Cleaned up the patatap project. Moved on to learning about the backend.
+
+###R1D8
+Started learning command line.
+
+###R1D9
+
+###R1D10
+
+###R1D11
+
+###R1D12
+
+###R1D13
+
+###R1D14
+
+###R1D15
+
+###R1D16
+
+###R1D17
+
+###R1D18
+
+###R1D19
+
+###R1D20
+
+###R1D21
