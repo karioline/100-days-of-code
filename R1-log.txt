@@ -30,6 +30,7 @@ Cleaned up the patatap project. Moved on to learning about the backend.
 Started learning command line.
 
 ###R1D9
+Learned NodeJS and NPM.
 
 ###R1D10
 
