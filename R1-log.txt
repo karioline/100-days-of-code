@@ -33,6 +33,7 @@ Started learning command line.
 Learned NodeJS and NPM.
 
 ###R1D10
+Started working with the Express framework with NodeJS and creating routes.
 
 ###R1D11
 
