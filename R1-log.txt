@@ -36,8 +36,11 @@ Learned NodeJS and NPM.
 Started working with the Express framework with NodeJS and creating routes.
 
 ###R1D11
+Worked on Express assignment making new application, using 'npm init' and saving Express as a dependency, creating 
+different routes.
 
 ###R1D12
+Learned about Post requests using Express.
 
 ###R1D13
 
