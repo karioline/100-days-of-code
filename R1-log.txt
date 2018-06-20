@@ -46,6 +46,7 @@ Learned about Post requests using Express.
 Began working with API's and making API requests using Node.
 
 ###R1D14
+Finished the API lessons. Began working on the YelpCamp project; finished that section. Put in a couple of hours today.
 
 ###R1D15
 
