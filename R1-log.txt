@@ -49,6 +49,7 @@ Began working with API's and making API requests using Node.
 Finished the API lessons. Began working on the YelpCamp project; finished that section. Put in a couple of hours today.
 
 ###R1D15
+Began intro to databases. Will be installing MongoDB later. 
 
 ###R1D16
 
