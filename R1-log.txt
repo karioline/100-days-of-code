@@ -52,8 +52,10 @@ Finished the API lessons. Began working on the YelpCamp project; finished that s
 Began intro to databases. Will be installing MongoDB later. 
 
 ###R1D16
+Began working with Mongoose and MongoDB.
 
 ###R1D17
+Applied Mongoose to YelpCamp application and updated routes and other functions to use the DB.
 
 ###R1D18
 
