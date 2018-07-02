@@ -57,10 +57,8 @@ Began working with Mongoose and MongoDB.
 ###R1D17
 Applied Mongoose to YelpCamp application and updated routes and other functions to use the DB.
 
-###R1D18
+###R1D18-21
+Been working on a Blog app using Cloud9, express, mongoose, and many other packages. Forgot to log! Finished the app
+today and downloaded it (called 'webdevbootcamp'). In the future, I'd like to redo the app for something else, 
+like a portfolio. 
 
-###R1D19
-
-###R1D20
-
-###R1D21
