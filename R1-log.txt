@@ -62,3 +62,9 @@ Been working on a Blog app using Cloud9, express, mongoose, and many other packa
 today and downloaded it (called 'webdevbootcamp'). In the future, I'd like to redo the app for something else, 
 like a portfolio. 
 
+###R1D?
+I've been working and coding for a while now but got caught up with school and stuff. So starting back up and keeping track today.
+
+###R1D22
+Starting to complete CodeSignal tasks. I did a newNumeralSystems challenge today. Said it was easy and should have taken 20 minutes. Took me a little over an hour :/ 
+
